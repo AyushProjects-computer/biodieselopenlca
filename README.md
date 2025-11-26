@@ -26,7 +26,7 @@ Gate-to-Gate (production plant only)
 - Improvement suggestions: renewable electricity, waste oil feedstock, enzyme reuse
 
 ## Author
-Ayush Ranjan & Pratham Pathak — B.Tech Biotechnology, BIT Mesra
+Ayush Ranjan & Pratham Pathak (441 & 951) — B.Tech Biotechnology, BIT Mesra
 
 ## COLLABORATORS
 Pratham Pathak - B.Tech Biotechnology,BIT Mesra
